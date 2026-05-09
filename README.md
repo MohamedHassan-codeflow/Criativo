@@ -1,63 +1,59 @@
-Criativo - Creative Agency Website
+# Criativo - Creative Agency Website
 
-A modern and responsive Creative Agency landing page built using HTML5 and CSS3.
-The website features a dark modern UI design with smooth hover effects, responsive layouts, portfolio showcase, team section, testimonials, and contact form.
+Criativo is a modern, responsive creative agency landing page built with HTML5 and CSS3. It presents agency services, portfolio projects, team members, testimonials, blog cards, and contact information in a clean dark-themed interface.
 
-🚀 Features
-Fully Responsive Design
-Modern Dark UI
-Smooth Hover Animations
-Creative Agency Layout
-Services Section
-Portfolio Gallery
-Team Members Section
-Testimonials Section
-Contact Form
-Optimized for:
-Desktop Screens
-Tablets
-Mobile Devices
-🛠️ Technologies Used
-HTML5
-CSS3
-Bootstrap
-Font Awesome
-📱 Responsive Screens
+## Features
 
-The website is optimized for:
+- Responsive design for desktop, tablet, and mobile screens
+- Modern dark UI with teal accent colors
+- Hero section with agency introduction
+- Services cards with hover effects
+- About section
+- Project statistics section
+- Portfolio and latest work galleries
+- Brand/logo showcase section
+- Team members section
+- Testimonials section
+- Blog/news section
+- Contact form and contact details
+- Footer with social media icons
 
-1440px
-1024px
-768px
-425px
-376px
-320px
-📂 Project Structure
+## Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap
+- Font Awesome
+- Google Fonts / Web-safe fonts
+
+## Responsive Design
+
+The layout is optimized for different screen sizes, including:
+
+- 1440px
+- 1024px
+- 768px
+- 425px
+- 376px
+- 320px
+
+## Project Structure
+
+```bash
 Criativo/
-│
 ├── index.html
 ├── style.css
 ├── images/
 └── README.md
-🎨 Design Highlights
-Modern gradient backgrounds
-Interactive service cards
-Animated hover effects
-Clean typography
-Responsive image galleries
-Professional agency presentation
-⚡ Live Demo
-
-Add your GitHub Pages link here after deployment:
 
 https://your-username.github.io/Criativo/
-📸 Preview
 
-Add screenshots of your website here.
-
-👨‍💻 Author
+Author
 
 Mohamed Hassan
 
-GitHub:
-https://github.com/MohamedHassan-codeflow
+GitHub: MohamedHassan-codeflow
+
+License
+
+This project is open source and available under the MIT License.
