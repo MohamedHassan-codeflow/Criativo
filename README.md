@@ -90,8 +90,7 @@ https://criativo-weld.vercel.app/
 **Mohamed Hassan**
 
 - GitHub: https://github.com/MohamedHassan-codeflow
-- Live Demo: https://criativo-weld.vercel.app/
-
+- Linkedin: https://www.linkedin.com/in/mohamed-hassan-733b36406/
 ---
 
 ## 📄 License
